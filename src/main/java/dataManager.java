@@ -6,8 +6,8 @@ public class dataManager {
     private HashMap<String, room> rooms;
 
     public dataManager() {
-        this.users = new HashMap<>();
-        this.rooms = new HashMap<>();
+        this.users = new HashMap<String, user>();
+        this.rooms = new HashMap<String, room>();
     }
 
     public static void main(String[] args) {

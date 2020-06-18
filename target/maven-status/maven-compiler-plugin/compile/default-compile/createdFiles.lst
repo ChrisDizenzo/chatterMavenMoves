@@ -3,5 +3,6 @@ user.class
 server$1.class
 message.class
 room.class
+server$1$1.class
 dataManager.class
 chat.class
