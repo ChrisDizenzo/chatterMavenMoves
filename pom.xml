@@ -26,7 +26,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>dataManager</mainClass>
+                            <mainClass>server</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
